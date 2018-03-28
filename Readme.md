@@ -12,4 +12,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* jstangroome [https://github.com/jstangroome] for [https://gist.github.com/jstangroome/5945820]
+* [jstangroome](https://github.com/jstangroome) for [Get-RemoteSSLCertificate.ps1](https://gist.github.com/jstangroome/5945820)
